@@ -3,8 +3,8 @@
 ## Objectives:
 
 1. Understand what a pull request is
-1. Identify how to create a pull request from one fork to another
-2. Identify how to add commits to an existing pull request
+2. Identify how to create a pull request from one fork to another
+3. Identify how to add commits to an existing pull request
 
 ## Overview:
 
@@ -70,11 +70,11 @@ Here's a story:
 
 1. You fork the repository `https://github.com/learn-co-students/awesome-lab`
    to `https://github.com/your-user-name/awesome-lab`.
-1. You make some changes to your newly forked repo.
-1. Another student forks the repository
+2. You make some changes to your newly forked repo.
+3. Another student forks the repository
    `https://github.com/learn-co-students/awesome-lab` as
    `https://github.com/their-user-name/awesome-lab`.
-1.  You make some changes and you want to send a pull request to their fork
+4.  You make some changes and you want to send a pull request to their fork
     `https://github.com/their-user-name/awesome-lab`. How do you do this?
 
 Amazingly, `git` doesn't care whether one repository is the "source" or is
